@@ -1,7 +1,7 @@
-Mamba Documentation:
+ Mamba Documentation:
 
 
-Mamba is a programming language designed to offer a customizable, Python-like user experience. It is open source. Please give any input you have!
+Mamba is a programming language designed to offer a customizable, Python-like user experience. One thing I think is cool about this "language" is that you can change the declaration of each function so that it behaves however you want! It is open source. Please give any input you have!
 
 
 out(*args, **kwargs):
